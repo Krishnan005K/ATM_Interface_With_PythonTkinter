@@ -1,4 +1,4 @@
-# ATM_Interface_With_PythonTkinter
+# BankApplication_Interface_With_PythonTkinter
  
 # Banking Application Overview
 This is a simple banking application GUI built using Python's tkinter library. It allows users to perform basic banking operations such as deposit, withdraw, and view transaction history.
